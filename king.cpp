@@ -1,5 +1,8 @@
-//AtCoder DP Competition Frog 2
-//https://atcoder.jp/contests/dp
+/*
+Saints Petersburg State University DP problemset
+D. King
+https://codeforces.com/gym/100135/attachments
+*/
 #include<bits/stdc++.h>
  
 using namespace std;
